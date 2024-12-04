@@ -1,4 +1,4 @@
-# LLM Diversity Analysis
+# Benchmarking Linguistic Diversity of Large Language Models
 
 This repository provides code for the paper **Benchmarking Linguistic Diversity of Large Language Models**
 
